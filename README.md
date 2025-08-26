@@ -5,19 +5,19 @@ This project aims to predict future **annual rainfall trends** using a popular t
 ## Models Used
 - **Prophet (developed by Facebook/Meta)**  
 
-## 📈 Visualizations
+## Visualizations
 Interactive plots are generated using **Plotly**, showcasing:
 - Historical rainfall trends
 - Forecasted rainfall for the next 20 years
 
-## 📦 Requirements
+## Requirements
 
 Install all dependencies with:
 
 ```bash
 pip install -r requirements.txt
 ```
-📌 Notes
+Notes
 
 This project is part of a broader research and development interest in agricultural analytics. It is indirectly related to the project titled:
 “Crop Recommendation and Irrigation System using ML with Integrated IoT”, which involves using machine learning and IoT devices to optimize agricultural decisions.
