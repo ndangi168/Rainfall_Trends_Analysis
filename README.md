@@ -1,4 +1,4 @@
-# Rainfall Forecasting Using Prophet and ARIMA
+# Rainfall Trend Analysis And Forecasting Using Prophet
 
 This project aims to predict future **annual rainfall trends** using a popular time series forecasting models: **Facebook Prophet**. The project involves data preprocessing, model training, prediction visualization using Plotly, and model evaluation.
 
